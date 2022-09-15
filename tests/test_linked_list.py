@@ -1,5 +1,6 @@
 import pytest
-from linked_list import LinkedList
+from code.linked_list import LinkedList
+
 
 def test_for_loop():
     foods = LinkedList(("apple","banana","cucumber"))
