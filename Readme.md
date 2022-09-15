@@ -10,4 +10,4 @@ In the activated virtual environment run `python decorators.py` or `python linke
 
 ## How to test
 
-`pytest tests/test_linked_list.py`
+`PYTHONPATH='.' pytest tests/test_linked_list.py`
